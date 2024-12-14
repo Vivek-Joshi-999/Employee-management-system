@@ -1,0 +1,29 @@
+body{
+  background:#ddd;
+  }
+ 
+  
+  .custom-search-btn {
+    background-color: #2a05fa; /* Change button color */
+    color: white; /* Change text color */
+    border: none; /* Remove border */
+    padding: 8px 16px; /* Add padding */
+    border-radius: 4px; /* Rounded corners */
+    font-weight: bold; /* Bold text */
+    transition: background-color 0.3s; /* Smooth hover effect */
+}
+
+.custom-search-btn:hover {
+    background-color: #fbfbfe; 
+    color: black;
+    border: 1px solid #2a05fa;
+}
+.thead-custom-head{
+  background-color: #2a05fa;
+  color: #fbfbfe;
+}
+
+.custom-navbar{
+  margin-bottom: 30px;
+  background-color: rgb(255, 255, 255);
+}

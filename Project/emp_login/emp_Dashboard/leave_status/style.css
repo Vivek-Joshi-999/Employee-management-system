@@ -1,0 +1,20 @@
+body{
+  background:#2a05fa;
+  }
+ 
+.thead-custom-head{
+  background-color: #2a05fa;
+  color: #fbfbfe;
+}
+.Status{
+  color: red;
+}
+.container {
+  max-width: 800px;
+  background: #ffffff;
+  padding: 20px;
+  border-radius: 1px;
+  box-shadow: 0 3px 6px rgba(14, 1, 1, 0.603);
+  margin-top: 50px;
+}
+

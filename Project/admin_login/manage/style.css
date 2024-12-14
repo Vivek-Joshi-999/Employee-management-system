@@ -1,0 +1,37 @@
+body {
+  background: #ddd;
+}
+
+.custom-search-btn {
+  background-color: #2a05fa; 
+  color: white; 
+  border: none; 
+  padding: 8px 16px; 
+  border-radius: 4px; 
+  font-weight: bold; 
+  transition: background-color 0.3s; 
+}
+
+.custom-search-btn:hover {
+  background-color: #fbfbfe; 
+  color: black;
+  border: 1px solid #2a05fa;
+}
+
+.thead-custom-head {
+  background-color: #2a05fa;
+  color: #fbfbfe;
+}
+
+.custom-navbar {
+  margin-bottom: 30px;
+  background-color: rgb(255, 255, 255);
+}
+
+button {
+  margin: 0 5px; 
+}
+
+button:hover {
+  cursor: pointer;
+}

@@ -1,0 +1,19 @@
+.bg-custom {
+  background-color: rgb(46, 0, 253);
+}
+
+.custom-alert {
+  background-color: #f44336 !important;
+  color: white !important;
+  border-color: #d32f2f !important;
+  width: 300px;
+  position: fixed;
+  margin-top: 8px;
+  top: 50%;
+  left: 38%;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  padding: 15px;
+  border-radius: 8px;
+ 
+}
+
